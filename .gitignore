@@ -43,3 +43,24 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Additional Flutter/Dart
+.flutter-plugins
+.packages
+
+# Environment variables
+.env
+
+# Android specific
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/app/*.keystore
+
+# iOS specific
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/ephemeral/
+/ios/.symlinks/
+/ios/Pods/
