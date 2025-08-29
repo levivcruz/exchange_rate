@@ -15,7 +15,7 @@ An elegant and responsive Flutter application for checking Brazilian Real (BRL) 
 
 ## 🎥 Demo
 
-![App Demo](assets/demo.gif)
+<img src="assets/demo.gif" width="300" alt="App Demo" />
 
 *Watch the app in action - Exchange Rate converter with real-time data and 30-day history*
 
