@@ -1,4 +1,4 @@
-import '../../../core/core.dart';
+import '../../../../core/core.dart';
 import '../entities/current_exchange_rate_entity.dart';
 import '../../data/repositories/repositories.dart';
 

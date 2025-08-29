@@ -1,4 +1,4 @@
-import '../../../core/core.dart';
+import '../../../../core/core.dart';
 import '../../domain/entities/entities.dart';
 
 abstract interface class IExchangeRateRepository {

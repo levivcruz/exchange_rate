@@ -1,6 +1,6 @@
 import 'package:http/http.dart' as http;
 
-import '../../../core/core.dart';
+import '../../../../core/core.dart';
 import '../../domain/entities/current_exchange_rate_entity.dart';
 import '../../domain/entities/exchange_rate_history_entity.dart';
 import '../dto/current_exchange_rate_dto.dart';
