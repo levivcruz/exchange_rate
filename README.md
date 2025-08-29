@@ -13,6 +13,12 @@ An elegant and responsive Flutter application for checking Brazilian Real (BRL) 
 - **Responsive Design**: Adaptable to different screen sizes
 - **Modern Interface**: Clean and intuitive UI following Material Design
 
+## 🎥 Demo
+
+![App Demo](assets/demo.gif)
+
+*Watch the app in action - Exchange Rate converter with real-time data and 30-day history*
+
 ## 🎯 Supported Currencies
 
 - **USD** - US Dollar
